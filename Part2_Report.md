@@ -2,7 +2,7 @@
 
 *Part 2: Simulation Report*
 
-**GitHub repository:** `<paste your repository URL here>`
+**GitHub repository:** `https://github.com/AmarUC/Exploring-Instruction-Level-Parallelism-ILP-in-Modern-Processors`
 
 ---
 
